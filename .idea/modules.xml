@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FormatterJetlore/.idea/modules/formatterjetlore.iml" filepath="$PROJECT_DIR$/../FormatterJetlore/.idea/modules/formatterjetlore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FormatterJetlore/.idea/modules/formatterjetlore-build.iml" filepath="$PROJECT_DIR$/../FormatterJetlore/.idea/modules/formatterjetlore-build.iml" />
+    </modules>
+  </component>
+</project>
